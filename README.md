@@ -10,5 +10,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [2]-open folder in terminal Run `npm i` .
 [3]-Run `ng serve`.
 ```
-Thanks *-* to read .
+>>Thanks  .
 
